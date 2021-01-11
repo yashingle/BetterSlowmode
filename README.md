@@ -49,7 +49,7 @@ In Discord, @ the bot for the prefix, default is %:
 * Twitter: [@aeramos\_](https://twitter.com/aeramos\_)
 * Email: [aeramos.work@gmail.com](mailto:aeramos.work@gmail.com)
 
-## 🤝 Contributing
+## 🤝 Contributions
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/aeramos/BetterSlowmode/issues). 
